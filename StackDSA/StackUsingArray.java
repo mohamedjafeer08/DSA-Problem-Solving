@@ -3,7 +3,7 @@ public class StackUsingArray {
 	private int size;
 	private int capacity;
 	private int index;
-	public Stack() {
+	public StackUsingArray() {
 		this(11);
 	}
 	public StackUsingArray(int capacity){
